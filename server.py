@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-REPLIT_URL = "https://b4dad1bb-a3bb-41e7-8dc8-f8d3d7453b8b-00-1loqz2ubw5tj3.pike.replit.dev/"
+REPLIT_URL = "https://2e11e93e-5882-4e5f-84a5-046cb70de076-00-156kht34tm5io.janeway.replit.dev"
 
 @app.route('/')
 def home():
